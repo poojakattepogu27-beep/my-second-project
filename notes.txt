@@ -1,1 +1,2 @@
-this is my first file on github
+this is my first file on GitHub
+editing this from my computer now!
